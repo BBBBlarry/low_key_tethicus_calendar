@@ -1,4 +1,35 @@
 # Event Calendar
+
+## Interactive Autonomy: Learning and Control for Human-Robot Systems
+
+### Date And Time
+Tuesday, April 23, 2019
+3:30 pm
+
+### Location
+Amazon Auditorium, CSE2
+
+### Link
+https://www.cs.washington.edu/events/colloquia/details?id=3077
+
+---
+
+## The Ethical Algorithm
+
+### Date And Time
+Thursday, May 2, 2019
+3:30 pm
+
+### Location
+Amazon Auditorium, CSE2
+
+### Link
+https://www.cs.washington.edu/events/colloquia/details?id=3050
+
+---
+
+# Past Events
+
 ## Politics, Policy and Privacy in the Data Economy: What tradeoffs are we really making?
 
 ### Date And Time
@@ -12,4 +43,3 @@ Seattle, WA 98109
 
 ### Link
 https://www.eventbrite.com/e/the-data-economy-explained-with-marketplace-techs-molly-wood-tickets-56380199695
-
