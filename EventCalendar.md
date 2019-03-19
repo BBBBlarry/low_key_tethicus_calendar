@@ -1,5 +1,19 @@
 # Event Calendar
 
+## Systems to Improve Online Discussion
+
+### Date And Time
+Monday, April 1, 2019
+3:30 pm
+
+### Location
+Zillow Commons, CSE2
+
+### Link
+https://www.cs.washington.edu/events/colloquia/details?id=3068
+
+---
+
 ## Interactive Autonomy: Learning and Control for Human-Robot Systems
 
 ### Date And Time
