@@ -1,30 +1,31 @@
 # Event Calendar
 
-## Systems to Improve Online Discussion
+## Artificial Intelligence: Risks and Advances
 
 ### Date And Time
-Monday, April 1, 2019
-3:30 pm
+Tuesday, April 20, 2019
+2:00 pm -- 5:00 pm
 
 ### Location
-Zillow Commons, CSE2
+Research Lecture Halls, Building 99/1919 of Microsoft Campus
+14820 Northeast 36th Street
+Redmond, WA 98052
 
 ### Link
-https://www.cs.washington.edu/events/colloquia/details?id=3068
+https://www.eventbrite.com/e/artificial-intelligence-risks-and-advances-tickets-58335848092?aff=ebdssbdestsearch&fbclid=IwAR3KuinfpDwqhkd2xoK-xN3X-eS0JJi072HRR0JLyN5a7ZxjqXJAtQGTBi0
 
 ---
-
-## Interactive Autonomy: Learning and Control for Human-Robot Systems
+## Connecting the Dots: Racism in Algorithms and Tech
 
 ### Date And Time
-Tuesday, April 23, 2019
-3:30 pm
+Monday, 29 April 2019
+17:00-19:00
 
 ### Location
-Amazon Auditorium, CSE2
+Kane Hall 110
 
 ### Link
-https://www.cs.washington.edu/events/colloquia/details?id=3077
+https://www.facebook.com/events/2183946408318052/
 
 ---
 
@@ -43,6 +44,20 @@ https://www.cs.washington.edu/events/colloquia/details?id=3050
 ---
 
 # Past Events
+
+## Systems to Improve Online Discussion
+
+### Date And Time
+Monday, April 1, 2019
+3:30 pm
+
+### Location
+Zillow Commons, CSE2
+
+### Link
+https://www.cs.washington.edu/events/colloquia/details?id=3068
+
+---
 
 ## Politics, Policy and Privacy in the Data Economy: What tradeoffs are we really making?
 
