@@ -1,5 +1,21 @@
 # Event Calendar
 
+## The Ethical Algorithm
+
+### Date And Time
+Thursday, May 2, 2019
+3:30 pm
+
+### Location
+Amazon Auditorium, CSE2
+
+### Link
+https://www.cs.washington.edu/events/colloquia/details?id=3050
+
+---
+
+# Past Events
+
 ## Artificial Intelligence: Risks and Advances
 
 ### Date And Time
@@ -28,23 +44,6 @@ Kane Hall 110
 https://www.facebook.com/events/2183946408318052/
 
 ---
-
-## The Ethical Algorithm
-
-### Date And Time
-Thursday, May 2, 2019
-3:30 pm
-
-### Location
-Amazon Auditorium, CSE2
-
-### Link
-https://www.cs.washington.edu/events/colloquia/details?id=3050
-
----
-
-# Past Events
-
 ## Systems to Improve Online Discussion
 
 ### Date And Time
